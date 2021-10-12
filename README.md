@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+My Name is Amitendu Mallick. I am Web Developer and a student in Techno International Newtown!
 <!--
 **AmitCSE99/AmitCSE99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
